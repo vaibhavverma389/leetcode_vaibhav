@@ -10,8 +10,8 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode dummy = new ListNode(0); // dummy head
-        ListNode curr = dummy;           // pointer for result list
+        ListNode d = new ListNode(0); 
+        ListNode c = d;           
         int carry = 0;
 
         while (l1 != null || l2 != null) {
@@ -30,14 +30,14 @@ class Solution {
             carry = sum / 10;
             sum = sum % 10;
 
-            curr.next = new ListNode(sum);
-            curr = curr.next;
+            c.next = new ListNode(sum);
+            c = c.next;
         }
 
         if (carry > 0) {
-            curr.next = new ListNode(carry);
+            c.next = new ListNode(carry);
         }
 
-        return dummy.next;
+        return d.next;
     }
 }
