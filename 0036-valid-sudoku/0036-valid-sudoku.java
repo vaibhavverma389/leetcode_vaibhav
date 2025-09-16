@@ -1,6 +1,6 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        // Use sets to track seen numbers
+      
         HashSet<String> seen = new HashSet<>();
 
         for (int i = 0; i < 9; i++) {
