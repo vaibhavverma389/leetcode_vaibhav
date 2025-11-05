@@ -1,5 +1,7 @@
-class Solution {
-    public int lengthOfLIS(int[] nums) {
+class Solution 
+{
+    public int lengthOfLIS(int[] nums) 
+    {
         if(nums.length == 0)
         {
             return 0;
@@ -18,9 +20,8 @@ class Solution {
                 }
             }
             dp[i]=max+1;
-        ans=Math.max(ans,dp[i]); 
+            ans=Math.max(ans,dp[i]); 
         }
-          return ans; 
+        return ans; 
     }
-    
 }
