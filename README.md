@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0036-valid-sudoku) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0198-house-robber](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0322-coin-change) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1013-fibonacci-number) |
 ## Memoization
