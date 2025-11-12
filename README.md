@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1013-fibonacci-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
