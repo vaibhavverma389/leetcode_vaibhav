@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0036-valid-sudoku) |
+| [0056-merge-intervals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0198-house-robber](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0198-house-robber) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0062-unique-paths) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
