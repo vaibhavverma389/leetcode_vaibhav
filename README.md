@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0198-house-robber) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -116,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0075-sort-colors) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
