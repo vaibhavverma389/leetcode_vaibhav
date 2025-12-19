@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0300-longest-increasing-subsequence) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0136-single-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
