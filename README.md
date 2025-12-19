@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0074-search-a-2d-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Bit Manipulation
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0300-longest-increasing-subsequence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
