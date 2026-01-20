@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0292-nim-game) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
