@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3668-restore-finishing-order](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3668-restore-finishing-order](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3668-restore-finishing-order) |
 ## Linked List
 |  |
 | ------- |
