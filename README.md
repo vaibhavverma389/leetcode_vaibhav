@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0896-monotonic-array) |
+| [1200-minimum-absolute-difference](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1200-minimum-absolute-difference) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0215-kth-largest-element-in-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1200-minimum-absolute-difference) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
