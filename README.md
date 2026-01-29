@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
