@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1013-fibonacci-number) |
+| [2485-find-the-pivot-integer](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0238-product-of-array-except-self) |
+| [2485-find-the-pivot-integer](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2485-find-the-pivot-integer) |
 ## Stack
 |  |
 | ------- |
