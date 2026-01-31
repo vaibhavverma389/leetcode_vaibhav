@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0089-gray-code) |
+| [0263-ugly-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0412-fizz-buzz) |
