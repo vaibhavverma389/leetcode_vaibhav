@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0215-kth-largest-element-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
