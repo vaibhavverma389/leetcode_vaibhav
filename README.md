@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0896-monotonic-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1200-minimum-absolute-difference) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
