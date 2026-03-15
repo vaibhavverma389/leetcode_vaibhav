@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0566-reshape-the-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0896-monotonic-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting Sort
 |  |
