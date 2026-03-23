@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0206-reverse-linked-list) |
