@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2485-find-the-pivot-integer](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Brainteaser
 |  |
 | ------- |
@@ -341,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0100-same-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
