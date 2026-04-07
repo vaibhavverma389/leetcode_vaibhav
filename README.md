@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0645-set-mismatch) |
