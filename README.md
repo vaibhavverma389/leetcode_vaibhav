@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0172-factorial-trailing-zeroes) |
+| [0223-rectangle-area](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0292-nim-game) |
@@ -363,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
