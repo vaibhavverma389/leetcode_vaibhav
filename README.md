@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0051-n-queens) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0051-n-queens) |
