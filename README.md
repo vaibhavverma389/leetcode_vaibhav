@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0215-kth-largest-element-in-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0443-string-compression) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0287-find-the-duplicate-number) |
