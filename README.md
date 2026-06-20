@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0089-gray-code) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0415-add-strings) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0566-reshape-the-matrix) |
