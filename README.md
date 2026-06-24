@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0063-unique-paths-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0561-array-partition) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0064-minimum-path-sum) |
