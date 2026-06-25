@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0384-shuffle-an-array) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0496-next-greater-element-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0560-subarray-sum-equals-k) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0397-integer-replacement) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -420,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0384-shuffle-an-array) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
