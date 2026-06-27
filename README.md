@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0908-smallest-range-i) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0875-koko-eating-bananas) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
