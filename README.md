@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0283-move-zeroes) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0328-odd-even-linked-list) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0561-array-partition) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0240-search-a-2d-matrix-ii) |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
