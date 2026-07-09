@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
+| [0383-ransom-note](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0496-next-greater-element-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0415-add-strings) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Stack
