@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0343-integer-break) |
 | [0384-shuffle-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0384-shuffle-an-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0322-coin-change) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0100-same-tree) |
+| [0279-perfect-squares](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
