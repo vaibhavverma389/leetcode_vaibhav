@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0300-longest-increasing-subsequence) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0645-set-mismatch) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
