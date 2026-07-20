@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0908-smallest-range-i) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1470-shuffle-the-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0566-reshape-the-matrix) |
+| [1260-shift-2d-grid](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1260-shift-2d-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Bit Manipulation
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2073-time-needed-to-buy-tickets) |
