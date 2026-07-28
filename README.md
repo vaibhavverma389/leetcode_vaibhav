@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0343-integer-break) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0384-shuffle-an-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0412-fizz-buzz) |
@@ -479,10 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0384-shuffle-an-array) |
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0384-shuffle-an-array) |
 ## Trie
 |  |
