@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0263-ugly-number) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0682-baseball-game) |
