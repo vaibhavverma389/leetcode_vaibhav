@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0908-smallest-range-i) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0537-complex-number-multiplication) |
 | [0728-self-dividing-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0908-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0877-stone-game) |
 ## String Matching
 |  |
 | ------- |
