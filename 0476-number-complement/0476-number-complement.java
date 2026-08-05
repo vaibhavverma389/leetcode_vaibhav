@@ -1,14 +1,17 @@
 class Solution {
     public int findComplement(int num) {
-        int full = 0;
-        int temp = num;
-
-        while (temp > 0) {
-            full = (full << 1) | 1;
-            temp >>= 1;
+        if(num==0)
+        {
+            return 1;
         }
-
-        return (~num) & full;
+        int a=0;
+        int b=num;;
+        while(b>0)
+        {
+            a= (a<< 1) | 1;
+            b >>= 1;
+        }
+        return a ^ num;
         
     }
 }
