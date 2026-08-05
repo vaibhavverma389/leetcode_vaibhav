@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0645-set-mismatch) |
+| [1009-complement-of-base-10-integer](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2527-find-xor-beauty-of-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2527-find-xor-beauty-of-array) |
