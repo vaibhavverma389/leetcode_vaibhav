@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3668-restore-finishing-order](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2527-find-xor-beauty-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3536-maximum-product-of-two-digits) |
+| [3945-digit-frequency-score](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
