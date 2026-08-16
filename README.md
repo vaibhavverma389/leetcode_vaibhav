@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3731-find-missing-elements) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0443-string-compression) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Greedy
 |  |
