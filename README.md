@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0134-gas-station) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0152-maximum-product-subarray) |
