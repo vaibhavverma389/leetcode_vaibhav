@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0279-perfect-squares) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1021-remove-outermost-parentheses) |
