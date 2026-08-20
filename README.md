@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2527-find-xor-beauty-of-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2527-find-xor-beauty-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3668-restore-finishing-order](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3668-restore-finishing-order) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
