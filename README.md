@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0227-basic-calculator-ii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0062-unique-paths) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0227-basic-calculator-ii) |
@@ -554,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0493-reverse-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
