@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0649-dota2-senate) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1189-maximum-number-of-balloons) |
+| [1208-get-equal-substrings-within-budget](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1208-get-equal-substrings-within-budget) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0875-koko-eating-bananas) |
+| [1208-get-equal-substrings-within-budget](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1208-get-equal-substrings-within-budget) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0560-subarray-sum-equals-k) |
+| [1208-get-equal-substrings-within-budget](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1208-get-equal-substrings-within-budget) |
 | [2485-find-the-pivot-integer](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2485-find-the-pivot-integer) |
 ## Stack
 |  |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0643-maximum-average-subarray-i) |
+| [1208-get-equal-substrings-within-budget](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1208-get-equal-substrings-within-budget) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting Sort
