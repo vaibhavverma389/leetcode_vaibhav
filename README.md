@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0392-is-subsequence) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0496-next-greater-element-i) |
