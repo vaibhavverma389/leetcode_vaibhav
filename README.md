@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0279-perfect-squares) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0300-longest-increasing-subsequence) |
