@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0043-multiply-strings) |
+| [0091-decode-ways](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0227-basic-calculator-ii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0120-triangle) |
