@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0537-complex-number-multiplication) |
 | [0649-dota2-senate](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0649-dota2-senate) |
+| [0940-distinct-subsequences-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1208-get-equal-substrings-within-budget) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
