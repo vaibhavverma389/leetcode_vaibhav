@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
