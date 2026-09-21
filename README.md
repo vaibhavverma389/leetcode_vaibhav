@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3524-find-x-value-of-array-i) |
 | [3668-restore-finishing-order](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3731-find-missing-elements) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2485-find-the-pivot-integer) |
 | [2527-find-xor-beauty-of-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2527-find-xor-beauty-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3536-maximum-product-of-two-digits) |
 | [3945-digit-frequency-score](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3945-digit-frequency-score) |
 ## Recursion
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1013-fibonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
