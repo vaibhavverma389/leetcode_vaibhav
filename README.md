@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0561-array-partition) |
 | [0649-dota2-senate](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0649-dota2-senate) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3945-digit-frequency-score](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
