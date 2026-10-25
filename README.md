@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0908-smallest-range-i) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0566-reshape-the-matrix) |
+| [1254-number-of-closed-islands](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1260-shift-2d-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Bit Manipulation
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0322-coin-change) |
+| [1254-number-of-closed-islands](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1254-number-of-closed-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1254-number-of-closed-islands) |
 ## Enumeration
 |  |
 | ------- |
@@ -588,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0032-longest-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
