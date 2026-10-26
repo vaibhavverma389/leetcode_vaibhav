@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3524-find-x-value-of-array-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3731-find-missing-elements) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1260-shift-2d-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -596,4 +600,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
