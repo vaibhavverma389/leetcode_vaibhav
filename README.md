@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0496-next-greater-element-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0537-complex-number-multiplication](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0537-complex-number-multiplication) |
 | [0728-self-dividing-numbers](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0877-stone-game) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1200-minimum-absolute-difference) |
