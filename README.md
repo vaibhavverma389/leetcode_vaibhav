@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Greedy
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0875-koko-eating-bananas) |
 | [1208-get-equal-substrings-within-budget](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1208-get-equal-substrings-within-budget) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vaibhavverma389/vaibhav6969/tree/master/2210-find-target-indices-after-sorting-array) |
