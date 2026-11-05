@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0537-complex-number-multiplication) |
 | [0649-dota2-senate](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0649-dota2-senate) |
+| [0856-score-of-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1189-maximum-number-of-balloons) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavverma389/vaibhav6969/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0856-score-of-parentheses) |
 ## Union-Find
 |  |
 | ------- |
