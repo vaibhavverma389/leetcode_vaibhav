@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1254-number-of-closed-islands) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -547,11 +549,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vaibhavverma389/vaibhav6969/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/0112-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
