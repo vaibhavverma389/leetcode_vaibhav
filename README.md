@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3925-concatenate-array-with-reverse](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vaibhavverma389/vaibhav6969/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3945-digit-frequency-score](https://github.com/vaibhavverma389/leetcode_vaibhav/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
